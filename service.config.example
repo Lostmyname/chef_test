@@ -1,0 +1,7 @@
+# Service Config
+max-connections       = 100
+max-memory-allocation = 512
+
+# DB Config
+dabase-user       = randomuser
+database-password = randompass
